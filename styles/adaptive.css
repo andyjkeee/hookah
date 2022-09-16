@@ -1,0 +1,700 @@
+/*1150-1279px*/
+@media screen and (max-width: 1279px) {
+    .container {
+        padding: 0 15px;
+    }
+
+    .smoke-blur-left img {
+        width: 100%;
+    }
+}
+
+/*1079-1149px*/
+@media screen and (max-width: 1149px) {
+    .cards.slick-initialized.slick-slider .slick-next.slick-arrow {
+        right: -80px;
+    }
+
+    .cards.slick-initialized.slick-slider .slick-prev.slick-arrow {
+        left: -80px;
+    }
+}
+
+/*1024-1079*/
+@media screen and (max-width: 1079px) {
+
+    .coals {
+        left: 50%;
+        width: 70%;
+        top: -50%;
+        opacity: 0.2;
+    }
+
+    .coals img {
+        width: 100%;
+    }
+
+    .advantage-text {
+        font-size: 14px;
+    }
+
+    .first-line-adv {
+        display: block;
+        margin-top: 40px;
+    }
+
+    .first-line-1 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 205px;
+    }
+
+    .first-line-2 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 205px;
+    }
+
+    .second-line-adv {
+        margin-top: 0;
+        display: block;
+    }
+
+    .second-line-1 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 215px;
+    }
+
+    .second-line-2 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 215px;
+    }
+
+    .third-line-adv {
+        margin-top: 0;
+        margin-left: 0;
+        padding-bottom: 0;
+    }
+
+    .third-line-1 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        width: 215px;
+        padding-bottom: 100px;
+    }
+
+    .advantage-text {
+        font-size: 16px;
+        margin-bottom: 30px;
+        width: 250px;
+    }
+
+    .advantage-text.third-line-1 {
+        margin-bottom: 0;
+    }
+}
+
+/*768-1023px*/
+@media screen and (max-width: 1023px) {
+
+    .logo {
+        margin-right: 25px;
+    }
+
+    .main-image img {
+        right: 10px;
+        width: 50%;
+    }
+
+    .main-title h1 {
+        font-size: 45px;
+    }
+
+    .video .container {
+        padding: 0 15px;
+    }
+
+    .mint-petal {
+        display: none;
+    }
+
+    .second-title {
+        font-size: 35px;
+    }
+
+    .halls-title h3 {
+        padding-top: 100px;
+    }
+
+    .hall {
+        margin: 25px auto;
+    }
+
+    .hall:first-child {
+        margin-bottom: 25px;
+    }
+
+    .halls-descriptions {
+        margin-bottom: 125px;
+    }
+
+    .cards {
+        max-width: 380px;
+    }
+
+    .card {
+        max-width: 380px;
+        margin-right: 0;
+    }
+
+    .cards.slick-initialized.slick-slider .slick-next.slick-arrow {
+        display: none;
+    }
+
+    .cards.slick-initialized.slick-slider .slick-prev.slick-arrow {
+        display: none;
+    }
+
+    .footer {
+        padding-top: 130px;
+    }
+
+    .footer .container {
+        margin: 0 15px;
+        padding-bottom: 25px;
+    }
+}
+
+/*380-767*/
+@media screen and (max-width: 767px) {
+    .container .header {
+        padding: 25px 0;
+    }
+
+    .address {
+        display: none;
+    }
+
+    .timing {
+        display: none;
+    }
+
+    .burger {
+        display: block;
+    }
+
+    .smoke-right-header {
+        display: none;
+    }
+
+    .smoke-320px {
+        display: block;
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        right: 0;
+    }
+
+    .first-screen {
+        display: block;
+    }
+
+    .main-title {
+        margin-bottom: 0;
+        padding-bottom: 100px;
+    }
+
+    .smoke-left-2screen {
+        display: none;
+    }
+
+    .main-title h1 {
+        font-size: 35px;
+        width: 292px;
+        text-align: center;
+        padding-top: 50px;
+        margin: 0 auto;
+    }
+
+    .title-description {
+        margin: 40px 0 70% 0;
+        text-align: center;
+    }
+
+    .title-action {
+        text-align: center;
+    }
+
+    .button-menu {
+        width: 250px;
+        margin: 0 auto 15px auto;
+    }
+
+    .button-table {
+        width: 250px;
+    }
+
+    .main-image img {
+        left: 50%;
+        transform: translateX(-50%);
+        width: 60%;
+        top: 235px;
+    }
+
+    .smoke-left-3-4-screen {
+        display: none;
+    }
+
+    .smoke-blur-right {
+        display: none;
+    }
+
+    .coals {
+        left: 50%;
+        width: 100%;
+        top: -10%;
+        opacity: 0.2;
+    }
+
+    .coals img {
+        width: 100%;
+    }
+
+    .advantage-text {
+        font-size: 14px;
+    }
+
+    .first-line-adv {
+        display: block;
+        margin-top: 40px;
+    }
+
+    .first-line-1 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 205px;
+    }
+
+    .first-line-2 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 205px;
+    }
+
+    .second-line-adv {
+        margin-top: 0;
+        display: block;
+    }
+
+    .second-line-1 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 215px;
+    }
+
+    .second-line-2 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 215px;
+    }
+
+    .third-line-adv {
+        margin-top: 0;
+        margin-left: 0;
+        padding-bottom: 0;
+    }
+
+    .third-line-1 {
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        width: 215px;
+        padding-bottom: 100px;
+    }
+
+    .advantages-title h2 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .video .container {
+        padding: 0 15px;
+    }
+
+    .video-title h2 {
+        font-size: 32px;
+    }
+
+    .smoke-blur-left {
+        display: none;
+    }
+
+    .slick-next.slick-arrow {
+        display: none;
+    }
+
+    .slick-prev.slick-arrow {
+        display: none;
+    }
+
+    .slick-dots li {
+        width: 25px;
+    }
+
+    .slick-dots li button:before {
+        font-size: 15px;
+    }
+
+    .menu .container {
+        padding-top: 150px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .menu-title h2 {
+        margin-bottom: 50px;
+        font-size: 32px;
+    }
+
+    .description-items {
+        padding-left: 0;
+        justify-content: space-around;
+        margin: 0 auto;
+    }
+
+    .description-item {
+        margin-right: 0;
+    }
+
+    .halls-title h3 {
+        padding-top: 140px;
+        margin-bottom: 47px;
+        font-size: 32px;
+    }
+
+    .ps-5 {
+        display: none;
+    }
+
+    .hall {
+        flex-direction: column-reverse;
+    }
+
+    .hall-image {
+        text-align: center;
+    }
+
+    .hall-text {
+        text-align: center;
+    }
+
+    .hall-text p {
+        margin: 0 auto;
+    }
+
+    .smoke-halls-320px {
+        display: block;
+        position: absolute;
+        bottom: 0;
+        z-index: 0;
+        width: 100%;
+    }
+
+    .smoke-halls-320px img {
+        width: 100%;
+    }
+
+    .smoke-circle {
+        display: none;
+    }
+
+    .booking-title h3 {
+        font-size: 32px;
+    }
+
+    .booking-title h4 {
+        font-size: 14px;
+    }
+
+    input {
+        width: 100%;
+    }
+
+    .booking-button {
+        width: 100%;
+    }
+
+    .smoke-right-6screen {
+        display: none;
+    }
+
+    .feedbacks-slider {
+        z-index: 2;
+    }
+
+    .feedbacks-title h2 {
+        font-size: 32px;
+    }
+
+    .actions {
+        padding-bottom: 100px;
+    }
+
+    .cards {
+        max-width: 290px;
+    }
+
+    .card {
+        max-width: 290px;
+        padding: 20px;
+    }
+
+    .card-text {
+        width: 240px;
+        font-size: 14px;
+    }
+
+    .client-name {
+        font-size: 17px;
+    }
+
+    .client-status {
+        font-size: 14px;
+    }
+
+    iframe {
+        height: 440px;
+    }
+
+    button.slick-next.slick-arrow {
+        display: none;
+    }
+
+    button.slick-prev.slick-arrow {
+        display: none;
+    }
+
+    .footer .container {
+        margin: 0;
+    }
+
+}
+
+
+/*0-379*/
+@media screen and (max-width: 379px) {
+    .main-title {
+        padding-bottom: 100px;
+        margin-bottom: 0;
+    }
+
+    .main-title h1 {
+        font-size: 35px;
+        width: 292px;
+        text-align: center;
+        padding-top: 50px;
+        margin: 0 auto;
+    }
+
+    .title-description {
+        margin: 40px 0 450px 0;
+        text-align: center;
+    }
+
+    .title-action {
+        text-align: center;
+    }
+
+    .button-menu {
+        width: 250px;
+        margin: 0 auto 15px auto;
+    }
+
+    .button-table {
+        width: 250px;
+    }
+
+    .main-image img {
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        top: 235px;
+    }
+
+    .smoke-left-2screen {
+        display: none;
+    }
+
+    .mint-petal {
+        display: none;
+    }
+
+    .smoke-left-3-4-screen {
+        display: none;
+    }
+
+    .current-times {
+        width: 93%;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .first-block {
+        display: none;
+    }
+
+    .second-block {
+        display: none;
+    }
+
+    .third-block {
+        display: none;
+    }
+
+    .footer-mobile {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .footer .container {
+        margin: 0;
+        display: block;
+    }
+
+    .logo-footer-mobile {
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .left-logo {
+        margin-bottom: 40px;
+    }
+
+    .left-socials {
+        margin-bottom: 30px;
+        display: flex;
+    }
+
+    .left-socials img {
+        width: 40px;
+    }
+
+    .left-socials img:first-child {
+        margin-right: 10px;
+    }
+
+    .left-text div {
+        font-size: 14px;
+        font-family: MuseoSansCyrl300, sans-serif;
+        color: rgb(255, 255, 255);
+        width: 123px;
+    }
+
+    .left-text div:first-child {
+        margin-bottom: 20px;
+    }
+
+    .right-block-first {
+        display: flex;
+        align-items: center;
+    }
+
+    .location {
+        margin-right: 13px;
+    }
+
+    .right-address {
+        font-size: 14px;
+        font-family: MuseoSansCyrl300, sans-serif;
+        color: rgb(255, 255, 255);
+    }
+
+    .right-block-second {
+        font-size: 14px;
+        font-family: MuseoSansCyrl300, sans-serif;
+        color: rgb(255, 255, 255);
+        margin-top: 40px;
+        margin-left: 38px;
+    }
+
+    .rights {
+        display: none;
+    }
+
+    .smoke-footer {
+        display: none;
+    }
+
+    .tnx-mobile {
+        position: absolute;
+        width: 100%;
+        z-index: 2;
+        top: 0;
+        display: none;
+        background-image: url("../images/tnx-mobile-bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0 auto;
+        padding: 117px 0;
+        border-radius: 5px;
+    }
+
+    .tnx-mobile-close {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+
+    .tnx-mobile-title h3 {
+        font-size: 32px;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 193px;
+        margin-bottom: 40px;
+    }
+
+    .tnx-mobile-success {
+        font-size: 14px;
+        font-family: MuseoSansCyrl300, sans-serif;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .tnx-mobile-span {
+        color: #6ed6ea;
+    }
+
+    .tnx-mobile-text {
+        font-size: 14px;
+        font-family: MuseoSansCyrl300, sans-serif;
+        color: rgb(255, 255, 255);
+        width: 256px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .tnx-mobile-text.time {
+        margin-bottom: 30px;
+    }
+}
